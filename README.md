@@ -1,1 +1,1 @@
-# CS-Architecture
+# Computer System Architecture - Assignment 1
